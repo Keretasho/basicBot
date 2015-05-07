@@ -86,7 +86,7 @@
     "chatcleared": "\/me [@%%NAME%%] Cleared the chat.",
     "deletechat": "\/me [@%%NAME%%] Cleared the chat of %%USERNAME%%.",
     "commandslink": "\/me %%BOTNAME%% commands: %%LINK%%",
-    "eatcookie": "\/me ist einen Keks.",
+    "eatcookie": "\/me isst einen Keks.",
     "nousercookie": "\/em sieht %%NAME%% nicht im Raum und isst den Keks selbst.",
     "selfcookie": "\/me @%%NAME%%, you're a bit greedy, aren't you? Giving cookies to yourself, bah. Share some with other people!",
     "cookie": "\/me @%%NAMETO%%, @%%NAMEFROM%% %%COOKIE%%",
